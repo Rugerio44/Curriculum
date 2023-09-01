@@ -104,6 +104,7 @@ section{
 	background: var(--main-color);
 	border: 0.2rem solid var(--main-color);
 	font-size:  1.8rem;
+	font-weight: 500;
 	letter-spacing: none;
 	color: var(--bg-color);
 	z-index: 1;
