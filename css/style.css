@@ -289,11 +289,21 @@ span {
 	border-radius: 0.6rem;
 	margin-bottom: 2rem;
 }
-.proyecto-contenido .contenido .año{
+.proyecto-contenido .contenido .numeroproyecto {
 	font-size: 1.5rem;
 	color: var(--main-color);
 	padding-bottom: 0.5rem ;
 }
+
+.proyecto-contenido .contenido .numeroproyecto i{
+	padding-right: 0.5rem;
+}
+
+.proyecto-contenido .contenido .numeroproyecto h3 {
+	font-size: 2rem;
+}
+
+
 
 
 
